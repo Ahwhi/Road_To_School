@@ -26,7 +26,9 @@
 
 🌟 **Unity AI Navigation**: 맵 Baked 후 SetDestination등 기초적인 사용법
 
-🌀 **그래픽 파트와 협업** 경험 재고
+💥 **3D FPS**: ADS(Aim Down Sights), Shoot, Hip-fire, 자유 시점 구현
+
+👥 **그래픽 파트와 협업** 경험 재고
 
 ---
 
