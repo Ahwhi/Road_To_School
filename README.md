@@ -39,8 +39,9 @@ Link: https://youtu.be/eCF7DiIKoOk
 ---
 
 ### 🔎 게임 미리보기
-![SCR0](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/0.png)
-![SCR1](https://github.com/Ahwhi/KBO_MANAGER_2025/blob/main/ScreenShots/1.png)
+![SCR0](https://github.com/Ahwhi/Road_To_School/blob/main/ScreenShots/1.png)
+![SCR1](https://github.com/Ahwhi/Road_To_School/blob/main/ScreenShots/2.png)
+![SCR2](https://github.com/Ahwhi/Road_To_School/blob/main/ScreenShots/3.png)
 
 ---
 
